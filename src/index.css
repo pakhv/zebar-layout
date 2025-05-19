@@ -72,7 +72,7 @@ body,
   margin-right: 4px;
   padding: 4px 8px;
   color: rgb(255 255 255 / 90%);
-  border: none;
+  border: 1px solid #1e1e2e;
   border-radius: 50%;
   cursor: pointer;
   margin: 4px;
